@@ -34,7 +34,7 @@ img {max-width:100%}
     .hero {background: url('../img/mobile/banner-m.jpg') center center/cover no-repeat;}
     .hero .logo {top: 4%;left: 0;right: 0;}
     .hero .logo img {width: 270px;}
-    .hero .offer-text {left: 0;right: 0; top: unset; bottom: 15%;}
+    .hero .offer-text {left: 0;right: 0; top: unset; bottom: 22%;}
     .hero .offer-text h2 {font-size: 28px;}
     .hero .offer-text h1 {font-size: 50px;}
     .hero .offer-text .txt-extra {font-size: 28px;}
@@ -85,7 +85,7 @@ img {max-width:100%}
     .hero {background: url('../img/banner-desktop.jpg') 80% center/cover no-repeat;}
     .hero .logo {top: 5%}
     .hero .logo img {width: 270px;}
-    .hero .offer-text {bottom: 25%;}
+    .hero .offer-text {bottom: 20%;}
     .hero .offer-text h1 {font-size: 38px;}
     .hero .offer-text h2 {font-size: 27px;}
     .hero .offer-text .txt-extra {font-size: 27px; margin-top: 0;}
@@ -99,7 +99,7 @@ img {max-width:100%}
     .splide__slide img {width:52vw}
     .splide { margin-right: -1rem;}
 
-    .hero .offer-text {bottom: 25%;}
+    .hero .offer-text {bottom: 22%;}
     .hero .offer-text h2 {font-size: 23px;}
     .hero .offer-text h1 {font-size: 36px;}
     .hero .offer-text .txt-extra {font-size: 23px; margin-top: 5px;}
