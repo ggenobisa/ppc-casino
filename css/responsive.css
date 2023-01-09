@@ -85,7 +85,7 @@ img {max-width:100%}
     .hero {background: url('../img/banner-desktop.jpg') 80% center/cover no-repeat;}
     .hero .logo {top: 5%}
     .hero .logo img {width: 270px;}
-    .hero .offer-text {bottom: 20%;}
+    .hero .offer-text {bottom: 25%;}
     .hero .offer-text h1 {font-size: 38px;}
     .hero .offer-text h2 {font-size: 27px;}
     .hero .offer-text .txt-extra {font-size: 27px; margin-top: 0;}
