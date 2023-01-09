@@ -68,10 +68,11 @@ img {max-width:100%}
 @media screen and (max-width:940px) and (orientation: landscape) {
     .hero {background: url('../img/banner-desktop.jpg') center center/cover no-repeat;}
     .hero .logo {top: 5%;left: 2%; right: unset;}
-    .hero .offer-text {top: 25%; left: 2%; right: unset;}
+    .hero .offer-text {top: 19%; left: 2%; right: unset;}
     .hero .offer-text h2 {font-size: 24px;}
     .hero .offer-text h1 {font-size: 45px;}
-    .hero .offer-text .txt-extra {font-size: 24px;}
+    .hero .offer-text .txt-extra {font-size: 24px; margin-top: 10px;}
+    .hero .offer-text button {margin-top: 7px;}
 
    
 }/****940px LANDSCAPE****/
@@ -79,10 +80,12 @@ img {max-width:100%}
 @media screen and (min-width:480px) and (max-width:767px) {
     .hero {background: url('../img/banner-desktop.jpg') 80% center/cover no-repeat;}
     .hero .logo {top: 5%}
-    .hero .logo img {width: 300px;}
+    .hero .logo img {width: 270px;}
     .hero .offer-text {bottom: 20%;}
-    .hero .offer-text h2 {font-size: 30px;}
-    .hero .offer-text .txt-extra {font-size: 30px;}
+    .hero .offer-text h1 {font-size: 38px;}
+    .hero .offer-text h2 {font-size: 27px;}
+    .hero .offer-text .txt-extra {font-size: 27px; margin-top: 0;}
+    .hero .offer-text button {margin-top: 13px;}
     
   
 }/****768px****/
